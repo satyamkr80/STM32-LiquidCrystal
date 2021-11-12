@@ -14,7 +14,7 @@ This library allows a STM32 ARM microcontroller to control LiquidCrystal display
 * Change Text Direction
 * Print Integer/Float
 
-#### Change this line as per board/ic you are using
+#### Change this line as per board/ic you are using in LiquidCrystal.c file.
 ```c
 #include "stm32f4xx_hal.h" // change this line accordingl
 
